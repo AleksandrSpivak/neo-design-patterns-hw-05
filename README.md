@@ -65,9 +65,9 @@
 ## Встановлення та запуск
 
 1. Ініціалізація та створення конфігу
-npm init -y
-npm install --save-dev typescript ts-node @types/node
-npx tsc --init
+- npm init -y
+- npm install --save-dev typescript ts-node @types/node
+- npx tsc --init
 
 # Аналіз вказаної директорії
 ./path/to/directory
