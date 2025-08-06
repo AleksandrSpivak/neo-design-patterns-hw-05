@@ -74,10 +74,10 @@
 
 
 # Аналіз з вказаним форматом (json, xml, csv)
-npx ts-node main.ts ./path/to/directory json
-npx ts-node main.ts ./path/to/directory xml
-npx ts-node main.ts ./path/to/directory csv
-```
+- npx ts-node main.ts ./path/to/directory json
+- npx ts-node main.ts ./path/to/directory xml
+- npx ts-node main.ts ./path/to/directory csv
+
 
 ## Результати
 
